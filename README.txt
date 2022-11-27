@@ -1,0 +1,1 @@
+Simple tool to resize images to 400x400 size.
